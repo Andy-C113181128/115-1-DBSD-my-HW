@@ -1,3 +1,7 @@
+#Name: 陳柏亨 <BR>
+#SID:C113181128<BR>
+#EX01
+<HR>
 <?php
 
 $grade = 90;
