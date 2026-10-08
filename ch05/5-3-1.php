@@ -1,3 +1,8 @@
+#Name: 陳柏亨 <BR>
+#SID:C113181128<BR>
+#EX03
+<HR>
+
 <?php
 $total = 0;
 
