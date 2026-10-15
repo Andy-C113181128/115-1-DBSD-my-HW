@@ -3,9 +3,9 @@
 // 定義函數：印出網頁標題
 function printHeader()
 {
-    echo "<h3>SID: C1234567</h3>";
-    echo "<h3>Name: Smith</h3>";
-    echo "<h3>EX2</h3>";
+    echo "<h3>SID: C113181128</h3>";
+    echo "<h3>Name: 陳柏亨</h3>";
+    echo "<h3>EX1</h3>";
 }
 
 // 定義函數：印出頁尾
