@@ -3,6 +3,7 @@
 echo "<HR>";
 echo "SID: C113181128<br/>";
 echo "Name: 陳柏亨<br/>";
+echo "EX01<br/>";
 echo "<HR>";
 // 顯示網頁標題
 print "PHP與MySQL網頁設計<br/>";
