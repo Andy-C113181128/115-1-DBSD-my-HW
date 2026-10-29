@@ -2,7 +2,7 @@
 echo "<HR>";
 echo "SID: C113181128<br/>";
 echo "Name: 陳柏亨<br/>";
-echo "EX01<br/>";
+echo "W08-EX01<br/>";
 echo "<HR>";
 $str1 = "PHP and MySQL Web Programming";
 $str2 = "PHP與MySQL網頁設計範例教本";
